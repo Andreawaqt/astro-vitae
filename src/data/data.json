@@ -1,0 +1,56 @@
+{
+    "personal": {
+      "nom": "Andrea valero",
+      "telefon": "+34 622 497 744",
+      "data_naixement": "2002-08-08",
+      "adreça": "Pl frederica montseny",
+      "població": "Sabadell",
+      "foto": "https://projectpokemon.org/home/uploads/monthly_2020_04/2144862213_large.RTDXPortraitSpecial04.png.0fda5efec395b8127e2aac94d83f0ec6.png",
+      "pronoms": "she/her",
+      "rol": "Desarrolladora web"
+    },
+    "academic": [
+      {
+        "course": "Grau en desenvolupament web",
+        "from": "2021",
+        "to": "2024",
+        "institute": "Universitat oberta de Catalunya",
+        "location": "Barcelona",
+        "slug": "grau-desenvolupament-web-uoc"
+      },
+      {
+        "course": "Educació secundaria obligatoria",
+        "from": "2014",
+        "to": "2018",
+        "institute": "Salesians sabadell",
+        "location": "Sabadell",
+        "slug": "eso-salesians-sarria"
+      },
+      {
+        "course": "Curs de Desenvolupament Web Full Stack",
+        "from": "2024",
+        "to": "Present",
+        "institute": "Code Academy",
+        "location": "Barcelona",
+        "slug": "curs-desenvolupament-web-full-stack"
+      }
+    ],
+    "laboral": [
+      {
+        "role": "Desenvolupadora de programari amb aws",
+        "org": "Tech Solutions S.L.",
+        "from": "2023",
+        "to": "2023",
+        "location": "Barcelona",
+        "skills": "Desenvolupament de solucions de programari a mida per a clients empresarials.",
+        "slug": "desenvolupadora-de-programari-aws"
+      }
+    ],
+    "aficions": [
+      {"name": "Boxeo", "description": "uwu"},
+      {"name": "Calistenia", "description": "uwu"},
+      {"name": "Pokemon", "description": "uwu"},
+      {"name": "Chikorita", "description": "uwu"}
+    ]
+  }
+  
